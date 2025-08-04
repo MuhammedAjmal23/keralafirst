@@ -1,0 +1,272 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* 
+.navbar{
+    background-color: white;
+    height: 100px;
+    display: flex;
+}
+.navbar img{
+    height: 35px;
+    width: 60px;
+    padding-top: 30px;
+    padding-left: 110px;
+    border: none;
+}
+.navbar ol{
+    display: flex;
+    opacity: 0.5;
+    gap: 50px;
+    list-style: none;
+    padding-left: 1000px;
+    padding-top: 40px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.navbar ol li:hover{
+    color: blue;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.navbar button{
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 35px;
+    margin-top: 30px;
+    font-size: 13px;
+    margin-left: 25px;
+    border: none;
+    border-radius: 3px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.navbar button:hover{
+  
+    background-color: #45494D;
+} */
+.register{
+    display: flex;
+}
+
+
+.registerdetails{
+/* 
+    height: 500px;
+    width: 630px;
+    /* margin-left: 110px; */
+    margin-top: 150px;
+    font-family: sans-serif;
+} 
+.registerdetails ol{
+    list-style: none;
+    /* gap: 30px;
+    padding-top: 10px; */
+}
+.registerdetails ol li{
+    padding-top: 20px;
+    line-height: 25px;
+    font-size: 15px;
+    opacity:0.5;
+}
+.registerdetails h1{
+    font-size: 27px;
+}
+.registerdetails i{
+    font-size: 11px;
+    height: 13px;
+    width: 15px;
+    border: 1px solid;
+    padding-top: 2px;
+    text-align: center;
+    background-color: #0CBC87;
+    color: white;
+    border-radius: 50%;
+}
+
+.forms{
+    /* height: 750px;
+    width: 630px; */
+    font-family: sans-serif;
+   
+    background-color: #24292D;
+    color: white;
+    border-radius: 25px;
+  
+}
+.forms p{
+    font-size: 15px;
+    
+}
+/* .details1{
+    display: flex;
+    gap: 20px;
+    padding-left: 44px;
+    padding-top: 10px;
+    
+    line-height: 40px;
+} */
+.forms h1{
+     padding-top: 65px;
+    /* padding-left: 44px;
+    font-size: 35px;  */
+    text-align: center;
+}
+.details1 label{
+    opacity: 0.6;
+    
+
+}
+ input{
+    height: 40px;
+    width: 252px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3A3F42;
+    color: white;
+    font-size: 16px;
+    
+}
+ select{
+  height: 45px;
+    width: 251px; 
+    background-color: #3A3F42; 
+    border: none;
+    color: white;
+    font-size: 16px;
+    opacity: 0.5;
+    border-radius: 5px;
+}
+ /* textarea{
+    height: 80px;
+    width: 430px;
+    background-color: #3A3F42;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding-left: 5px;
+} */
+/* .forms button{
+      height: 50px;
+       width: 402px;
+      margin-left: 25px; 
+      margin-top: 7px;
+      font-size: 17px;
+      background-color: #066AC9;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 5px;
+} */
+.forms button:hover{
+    background-color: #055AAB;
+}
+
+.last{
+    margin-top: 10px;
+    margin-left: 45px;opacity: 0.5;
+    font-size: 14px;
+    
+}
+
+
+  .footer{
+     background-color: #F5F7F9;
+    height: 400px;
+}
+
+/* .footers{
+   
+    font-family: sans-serif;
+    display: flex;
+
+} */
+
+.final{
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+    
+}
+.final img{
+     height: 65px;
+    width: 60px;
+    padding-top: 30px;
+    padding-left: 10px;
+    border: none;
+    margin-top: 30px;
+}
+.final p{
+     padding-left: 10px;
+     padding-top: 20px;
+     opacity: 0.5;
+}
+.final ol{
+    display: flex;
+    list-style: none;
+    margin-top: 25px;
+    font-size: 15px;
+    gap: 20px;
+    padding-left: 10px;
+}
+.final li{
+    background-color:white;
+    height: 25px;
+    width: 35px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+  
+}
+.socialmedias li:hover{
+       background-color: #ECEFF0;
+}
+.links{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+ 
+}
+.links a {
+    text-decoration: none;
+    color: black;
+}
+.links h3{
+    font-size: 21px;
+}
+.links li{
+    margin-top: 25px;
+    list-style: none;
+    opacity: 0.5;
+}
+.links li:hover{
+    color: blue;
+}
+
+.contact ol{
+    list-style: none;
+   
+    margin-top: 60px;
+}
+.contact h3{
+font-size: 21px;
+}
+.contact li{
+    margin-top: 25px;
+}
+/* .contact p{
+    line-height: 25px;
+    padding-top: 10px;
+    font-size: 15px;
+    
+} */

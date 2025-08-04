@@ -1,0 +1,49 @@
+.grid{
+    display: grid;
+  grid-template-columns: 440px 440px 440px;
+  gap: 10px;
+  
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 30px;
+  height: 600px;
+  padding-left: 100px;
+  font-family: sans-serif;
+}
+.info1{
+    border-radius: 5px;
+    height: 250px;
+}
+.info1 h1{
+    padding-top: 20px;
+    font-size: 45px;
+    padding-left: 15px;
+}
+.info1 p{
+   padding-left: 15px;
+    padding-top: 20px;
+    line-height: 22px;
+    opacity: 0.5;
+    padding-bottom: 20px;
+}
+.cardinfo1 i{
+   font-size: 50px;
+   margin-left: 30px;
+   margin-top: 45px;
+}
+.cardinfo1 h3{
+ font-size: 20px;
+padding-left: 30px;
+padding-top: 10px;   
+}
+.cardinfo1 p{
+ padding-left: 30px;
+padding-top: 10px;
+line-height: 22px;
+opacity: 0.5;   
+}
+.cardinfo1{
+    background-color: #F5F7F9;
+    border-radius: 5px;
+    height: 250px;
+}

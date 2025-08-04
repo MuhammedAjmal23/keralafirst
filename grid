@@ -1,0 +1,37 @@
+ <div class="choose1">
+            
+       <div class="grid">
+         
+         <div class="info1">
+             <h1>Why choose our classes</h1>
+             <p>Choose us for an unmatched educational experience. Our dedicated team, rich expertise, and personalized approach ensure transformative learning, empowering you to thrive academically and personally. Your success starts here.</p>
+         </div>
+
+         <div class="cardinfo1">
+            <i class="fa-solid fa-video" style="color: #066AC9;"></i>
+            <h3>Flexible Scheduling</h3>
+            <p>We understand the busy lives of both students and parents. That's why we offer flexible scheduling options to accommodate your needs.</p>
+         </div>
+
+         <div class="cardinfo1">
+            <i class="fa-solid fa-video"></i>
+            <h3>Revision through Online Mobile App</h3>
+            <p>In addition to in-person tutoring, we provide the convenience of online learning, allowing students to access our expertise from the comfort of their own homes.</p>
+         </div>
+
+               
+         <div class="cardinfo1">
+            <i class="fa-solid fa-video"></i>
+            <h3>Progress Monitoring</h3>
+            <p>We keep track of students' progress, providing regular feedback and assessments to ensure they are on the right path to success.</p>
+         </div>
+
+         <div class="cardinfo1">
+            <i class="fa-solid fa-book" style="color: #F7C32E;"></i>
+            <h3>A Supportive Learning Environment</h3>
+            <p>we foster a positive and encouraging atmosphere where students can feel comfortable asking questions and building confidence in their abilities.</p>
+         </div>
+
+       </div>
+
+      </div>
